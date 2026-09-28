@@ -1,0 +1,207 @@
+{
+  "domain": "yakitorinight",
+  "niche": "Artisanal Yakitori Skewers & Charcoal Evening Dining",
+  "design_concept": "Neo-Classicist Guild & Roman Columnar",
+  "archetype_id": "neoclassic_guild",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "yakitorinight_asset_1.jpg",
+      "size_kb": 122.09,
+      "md5": "ed437ff609b40c1c638673b0866860c5",
+      "description": "BEST YAKITORI in local Japan",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "yakitorinight_asset_2.jpg",
+      "size_kb": 157.61,
+      "md5": "f7dcbad92ffd30fec71138bb6ae33b5e",
+      "description": "Cooking Yakitori at 2026 BIFC 20260",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "yakitorinight_asset_3.jpg",
+      "size_kb": 134.8,
+      "md5": "506867d9d8f4c02bf17ae29f67430e17",
+      "description": "Cooking yakitori",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "yakitorinight_asset_4.jpg",
+      "size_kb": 261.96,
+      "md5": "bd79af9db196ea7a3dbb01d753bebfc4",
+      "description": "Grilled chicken skewer lunch box of",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "yakitorinight_asset_5.jpg",
+      "size_kb": 189.62,
+      "md5": "06783a669333f2fa62fdb9066cb42958",
+      "description": "Grilled mushrooms and scallion at T",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "yakitorinight_asset_6.jpg",
+      "size_kb": 207.49,
+      "md5": "457a5f49ee774f809329b34f09d4fbe5",
+      "description": "Muroran Yakitori",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "yakitorinight_asset_7.jpg",
+      "size_kb": 218.13,
+      "md5": "a49a4b731754e0001e85efdb72d998fc",
+      "description": "Pork Belly Skewers",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "yakitorinight_asset_8.jpg",
+      "size_kb": 198.11,
+      "md5": "3cc5bcfcab5b9d621af10f9cec842705",
+      "description": "Suzume Yakitori 1",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "yakitorinight_asset_9.jpg",
+      "size_kb": 180.22,
+      "md5": "8e6d44d95dc3f302adef1140314069d1",
+      "description": "Typical yakitori 001",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "yakitorinight_asset_10.jpg",
+      "size_kb": 274.24,
+      "md5": "e2be128ee81f4057df7f0b37763460cb",
+      "description": "Yakitori 1",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "yakitorinight_asset_11.jpg",
+      "size_kb": 165.96,
+      "md5": "f73a37fe53c01f7b6c44c60df7731f99",
+      "description": "Yakitori 10511974503",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "yakitorinight_asset_12.jpg",
+      "size_kb": 136.15,
+      "md5": "56087d2994e0bd6178752526be7ab41c",
+      "description": "Yakitori 4687732433",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "yakitorinight_asset_13.jpg",
+      "size_kb": 262.63,
+      "md5": "ab2c8069592dc0612913d94bdc16e505",
+      "description": "Yakitori 6297268046",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "yakitorinight_asset_14.jpg",
+      "size_kb": 113.71,
+      "md5": "bb8e1a91a16bd822099a5ecd464aef75",
+      "description": "Yakitori Teriyaki Chicken Skewers",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "yakitorinight_asset_15.jpg",
+      "size_kb": 211.45,
+      "md5": "c4e146419743783af3c2815351874bbd",
+      "description": "Yakitori Tora",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "yakitorinight_asset_16.jpg",
+      "size_kb": 186.6,
+      "md5": "293b9e863517ba8b29d7e53328856f56",
+      "description": "Yakitori 001",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "yakitorinight_asset_17.jpg",
+      "size_kb": 170.1,
+      "md5": "4b41c5d3210b91691767ecac4946ada3",
+      "description": "Yakitori 002",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "yakitorinight_asset_18.jpg",
+      "size_kb": 125.74,
+      "md5": "c10c2517135d766ab5387ee76d758278",
+      "description": "Yakitori 003",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "yakitorinight_asset_19.jpg",
+      "size_kb": 149.93,
+      "md5": "93f9b60afb5018b0e517bbb7a6e15900",
+      "description": "Yakitori 004",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "yakitorinight_asset_20.jpg",
+      "size_kb": 103.62,
+      "md5": "c4782006143b673405d2cb70385a7ce5",
+      "description": "Yakitori 005",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://yakitorinight.com/sitemap.xml",
+    "robots": "https://yakitorinight.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}

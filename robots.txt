@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yakitorinight.com/sitemap.xml
